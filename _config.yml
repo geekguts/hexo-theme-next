@@ -221,9 +221,9 @@ facebook_sdk:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: 1QxYswDEIhiSBhog9QBsn5dP-gzGzoHsz
+  app_key: qT0HGcrF4Y85DFfv5egOPUtj
 
 
 # Tencent analytics ID
